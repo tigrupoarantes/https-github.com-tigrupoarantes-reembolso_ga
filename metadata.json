@@ -1,0 +1,7 @@
+{
+  "name": "GA Reembolsos",
+  "description": "Sistema corporativo multiempresa para gestão de despesas e reembolsos com PWA e backoffice administrativo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
